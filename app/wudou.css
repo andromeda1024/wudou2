@@ -1,0 +1,16 @@
+.swiper-slide {
+    background: #fff;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    width: 505px;
+  }
+  .swiper-slide span {
+    text-align:center;
+    display:block;
+    margin: 20px;
+    font-size:21px;
+  }
+  .swiper-container {
+    height: 380px;
+    margin: 15px 0;
+  }
